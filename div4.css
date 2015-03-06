@@ -1,0 +1,29 @@
+ .block1 { 
+    width: 400px;
+    height: 100px;
+    padding: 5px; 	
+    background: #fc0; 
+    border: solid 0px black;
+	
+	}
+	  
+	  .block2 { 
+    width: 200px;
+    height: 100px;	
+	padding: 5px; 
+    background: #c0c0c0; 
+    border: solid 0px black;
+	margin-top: 10px;
+	float: left;
+	
+      }
+	  
+	  .block3 { 
+    width: 200px;
+    height: 100px;	
+	padding: 5px; 
+    background: #808080; 
+    border: solid 0px black;
+	margin-top: 10px;
+	
+      }
